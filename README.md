@@ -3,6 +3,10 @@ Official Virtual Assistant for Abbey Players — Moscow’s First Immersive Pub 
 
 the bot is designed for Telegram messenger @AbbeyPlayersMoscowBot
 
+Priject screenshot:
+
+https://github.com/dmitry9g/AI_botAPlayers1/blob/main/Screenshot%20at%20Oct%2008%2017-08-15.png
+
 🎭 Project Overview
 The AI Assistant for Theater Ticket Sales is a specialized conversational AI agent designed exclusively to support Abbey Players, Russia’s first immersive pub theatre. Operating under the persona of Talia, the assistant guides potential guests through every step of their journey — from initial curiosity to confirmed ticket purchase — with warmth, expertise, and theatrical flair.
 
